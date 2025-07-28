@@ -10,24 +10,24 @@ Este é um projeto de RPG de mesa digital com foco em imersão, acessibilidade e
 
 ### 🎮 Funcionais
 
-- [x] Criação de mesas de jogo
-- [x] IA mestre com narrativa e controle total do jogo
-- [x] Jogadores humanos e IA (configurável)
-- [x] Upload de PDFs de regras/ambientação
-- [x] Fichas de personagens com estrutura dinâmica
-- [x] Múltiplas mesas simultâneas
-- [x] Geração de imagens com IA local
-- [x] Tradução automática entre PT-BR e EN via IA
-- [x] Histórico das sessões salvo localmente
-- [x] Criação de NPCs com personalidade e aparência
+- [ ] Criação de mesas de jogo
+- [ ] IA mestre com narrativa e controle total do jogo
+- [ ] Jogadores humanos e IA (configurável)
+- [ ] Upload de PDFs de regras/ambientação
+- [ ] Fichas de personagens com estrutura dinâmica
+- [ ] Múltiplas mesas simultâneas
+- [ ] Geração de imagens com IA local
+- [ ] Tradução automática entre PT-BR e EN via IA
+- [ ] Histórico das sessões salvo localmente
+- [ ] Criação de NPCs com personalidade e aparência
 
 ### 🧠 Inteligência Artificial
 
-- [x] IA Mestre superinteligente e central
-- [x] IA Tradutora leve e local (PT ↔ EN)
-- [x] IA para jogadores (IA-PCs)
-- [x] IA separada para NPCs importantes com personalidade e aparência
-- [x] Limites configuráveis para IA-PCs e NPCs por mesa
+- [ ] IA Mestre superinteligente e central
+- [ ] IA Tradutora leve e local (PT ↔ EN)
+- [ ] IA para jogadores (IA-PCs)
+- [ ] IA separada para NPCs importantes com personalidade e aparência
+- [ ] Limites configuráveis para IA-PCs e NPCs por mesa
 
 ---
 
